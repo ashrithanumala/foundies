@@ -1,3 +1,5 @@
+(vibe coded with cursor- doesn't work)
+
 # foundies
 
 A Kahoot-like real-time voting game for live audiences.
